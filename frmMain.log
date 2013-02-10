@@ -1,0 +1,9 @@
+Line 19: Class WhoIsControl.WhoIs of control WhoIs1 was not a loaded control class.
+Line 27: Class MSComDlg.CommonDialog of control CD was not a loaded control class.
+Line 34: Class TabDlg.SSTab of control SSTab was not a loaded control class.
+Line 245: Class MSComctlLib.ListView of control lstResults was not a loaded control class.
+Line 378: Class RichTextLib.RichTextBox of control txtWhoisInfo was not a loaded control class.
+Line 391: Class WhoIsControl.WhoIs of control Whois was not a loaded control class.
+Line 487: Class MSComctlLib.ListView of control lstDomains was not a loaded control class.
+Line 554: Class MSScriptControlCtl.ScriptControl of control ScriptControl1 was not a loaded control class.
+Line 561: Class MSComctlLib.ListView of control lstAlexa was not a loaded control class.
