@@ -22,7 +22,3 @@ Version 1.01
 Initial Release.
 
 Welcome to DNManagerPro. A program to track and manage your domains.
-
-If you have any questions, suggestions, or comments.
-You can contact us at:
-support@visualbasiczone.com
